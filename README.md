@@ -48,16 +48,17 @@ matplotlib
 
 📌 Sample Output (Printed Table)
 
-     product  total_qty  revenue
+     product       total_qty  revenue
 
-         Apples            50         25.0
-       Bananas             85         25.5
+     Apples          50        25.0
+     
+     Bananas         85        25.5
 
-      Cherries             55          55.0
+     Cherries        55        55.0
 
-         Dates            10           15.0
-
-    Elderberries             5           10.0
+     Dates           10        15.0
+ 
+     Elderberries    5         10.0
 
 
 📉 Bar Chart Example
