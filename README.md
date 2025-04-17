@@ -51,15 +51,15 @@ matplotlib
 
         product  total_qty  revenue
 
-0        Apples         50     25.0
+0          Apples           50       25.0
 
-1       Bananas         85     25.5
+1         Bananas           85       25.5
 
-2      Cherries         55     55.0
+2        Cherries           55       55.0
 
-3         Dates         10     15.0
+3           Dates           10       15.0
 
-4  Elderberries          5     10.0
+4    Elderberries            5       10.0
 
 
 📉 Bar Chart Example
